@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Asoma\'o App</string>
-    <string name="start">Inciar el asoma\'o</string>
-    <string name="stop">Detener el asoma\'o</string>
+    <string name="app_name">Asomado App</string>
+    <string name="start">Inicar el asomado</string>
+    <string name="stop">Detener el asomado</string>
 
 </resources>
