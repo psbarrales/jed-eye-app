@@ -10,3 +10,7 @@ this:
 * Being able to choose the position
 * Image selector
 * Keyboard detection
+
+### License ###
+
+Code released under the MIT license.
