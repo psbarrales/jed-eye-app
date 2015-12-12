@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Asomado App</string>
-    <string name="start">Inicar el asomado</string>
+    <string name="start">Iniciar el asomado</string>
     <string name="stop">Detener el asomado</string>
 
 </resources>
